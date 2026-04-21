@@ -1,4 +1,5 @@
 > 이 문서는 프로젝트의 상세 설계 및 구현 내용을 기록한 문서입니다.
+
 > 📄 [README](README.md)
 
 # rotary-encoder-door-lock (다이얼 도어락)
